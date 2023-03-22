@@ -1,1 +1,1 @@
-Just practicing CSS and BootStrap
+Just practicing HTML, CSS and BootStrap
